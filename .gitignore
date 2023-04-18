@@ -1,0 +1,24 @@
+#.git ignore for django project
+# Vs code
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Django migrations
+#**/migrations/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Extensions to ignore
+*.log
+*.pot
+*.pyc
+*.env
+*.sqlite3
+
+# Python environments
+venv/
+
